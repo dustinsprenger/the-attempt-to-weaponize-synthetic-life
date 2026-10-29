@@ -1,0 +1,9 @@
+Research Notes and Collaboration Record — Dustin Sprenger x ABEL
+
+This package brings together 567 supporting records and 13 dated collaboration exchanges documenting the technical work behind the copyright and patent investigations. It preserves research registers, comparison data, verification results, correction records, publication scripts and selected exchanges showing how the inquiry developed.
+
+Source mappings and SHA-256 checksums allow readers to verify file integrity and trace the supporting analysis. Privacy-reviewed copies preserve the originals. Historical interpretations remain subject to the final accuracy review; overlapping records must not be counted as independent corroboration.
+
+The package also preserves findings that weakened initial suspicions: metadata-only changes, unchanged pages and recognition errors. Those corrections matter. An investigation earns its force by exposing its methods to examination.
+
+The demand is precise: address the cited record, identify the disputed inference and supply the evidence needed to resolve it. Institutional reputation is not a technical rebuttal.

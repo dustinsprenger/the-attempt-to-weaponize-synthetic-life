@@ -84,5 +84,19 @@
   "supplementary_release": "https://github.com/dustinsprenger/the-attempt-to-weaponize-synthetic-life/releases/tag/supplementary-evidence-2026-10-29",
   "original_release_unchanged": true,
   "description_source": "PROJECT-DESCRIPTION.txt",
-  "notes_scope": "Supporting text and registers from established evidence collections, selected publication workflow records and 13 saved user-visible messages. Overlap across archives is disclosed; counts must not be added as unique evidence."
+  "notes_scope": "Supporting text and registers from established evidence collections, selected publication workflow records and 13 saved user-visible messages. Overlap across archives is disclosed; counts must not be added as unique evidence.",
+  "description_mirror": {
+    "source": "https://osf.io/g5euk/",
+    "api": "https://api.osf.io/v2/nodes/g5euk/",
+    "source_modified_utc": "2026-10-29T06:21:20.348668",
+    "retrieved_utc": "2026-10-29T06:24:04.965341+00:00",
+    "file": "PROJECT-DESCRIPTION.txt",
+    "sha256": "f5c43bf2498ec3068430e340023a2aedbfdd39acb42fcc05ba8425c6b408d16b"
+  },
+  "research_notes_summary": {
+    "file": "RESEARCH-NOTES-SUMMARY.txt",
+    "page": "https://dustinsprenger.github.io/the-attempt-to-weaponize-synthetic-life/research-notes.html",
+    "sha256": "b5c5b33bb664ad26b07c02d91c1e1c7205c75e76b0771c4793739a86d6d4d8be",
+    "source": "User-approved narrative in this conversation"
+  }
 }
