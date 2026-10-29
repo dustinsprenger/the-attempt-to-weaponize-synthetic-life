@@ -1,0 +1,60 @@
+{
+  "assets": [
+    {
+      "name": "The-Attempt-to-Weaponize-Synthetic-Life-Patent-Dossier-Final-Accuracy-Review-Updated-2026-10-28-Public-Privacy-Edition.pdf",
+      "label": "Patent dossier",
+      "bytes": 46144015,
+      "sha256": "101f128e87c1fc45735a615ece817995091579e85e9b77cf7072d33cce885f2d",
+      "pages": 398,
+      "original_unchanged": true,
+      "original_sha256": "37ab62195882c3d40b8e6fdbec4173b37df36c7281cfe1aa50ed75dbe0a4e16c",
+      "public_derivative": true
+    },
+    {
+      "name": "The-Attempt-to-Weaponize-Synthetic-Life-Copyright-Office-Dossier-Edition-1.3-2026-10-06-Public-Privacy-Edition.pdf",
+      "label": "Copyright Office dossier",
+      "bytes": 2591165,
+      "sha256": "c9bdd187c60ab62b2d801cd55a85ab90ecb7fca05f8decb7f014542e4a59b7fe",
+      "pages": 313,
+      "original_unchanged": true,
+      "original_sha256": "1471943fdf43d930c8abad870d9c0c5e136559946331aabd9cfcd1f7c45315b1",
+      "public_derivative": true
+    },
+    {
+      "name": "The-Attempt-to-Weaponize-Synthetic-Life-Public-Evidence-Privacy-Edition-2026-10-28.zip",
+      "label": "Evidence archive",
+      "sha256": "6384208fce5f00e4629632a39b38bf391f525df01d46cf79e74330fc26b7e096",
+      "bytes": 178306950,
+      "files": 746
+    }
+  ],
+  "evidence_count": 746,
+  "changes": 70,
+  "pdf_checks": [
+    {
+      "path": "01-Copyright-Office/Original-correspondence/2026-10-05_213239Z-Fwd-U.S.-Copyright-Office-Application---1-15161250471-Flower-Bloom-and-2-Other-Unpublished-Works-467c5e6e.eml!USCO Refusal SR 1-15161250471 09_03_2026.pdf",
+      "pages": 4,
+      "visually_identical_pages": 3,
+      "redacted_pages": [
+        1
+      ],
+      "removed_local_file_links": 1
+    },
+    {
+      "path": "dossiers/The-Attempt-to-Weaponize-Synthetic-Life-Patent-Dossier-Final-Accuracy-Review-Updated-2026-10-28.pdf",
+      "pages": 398,
+      "visually_identical_pages": 398,
+      "redacted_pages": [],
+      "removed_local_file_links": 0
+    },
+    {
+      "path": "dossiers/The-Attempt-to-Weaponize-Synthetic-Life-Copyright-Office-Dossier-Edition-1.3-2026-10-06.pdf",
+      "pages": 313,
+      "visually_identical_pages": 312,
+      "redacted_pages": [
+        262
+      ],
+      "removed_local_file_links": 0
+    }
+  ]
+}

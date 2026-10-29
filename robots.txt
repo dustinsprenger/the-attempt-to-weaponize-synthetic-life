@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dustinsprenger.github.io/the-attempt-to-weaponize-synthetic-life/sitemap.xml
